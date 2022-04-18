@@ -1,0 +1,7 @@
+Zaimplementuj algorytm KMP do wyszukiwania wzorca w tekście. Program dla danego tekstu i
+wzorca powinien znaleźć wszystkie wystąpienia wzorca w tekście, zwracając indeksy początków
+wzorca w tekście.
+Ponadto należy przeprowadzić cztery testy czasowe:
+1. dla długiego tekstu, np. całej książki (można wziąć z https://wolnelektury.pl);
+2. dla krótkiego tekstu, np. stronie tekstu.
+I w każdym tekście należy poszukać wybranych dwóch wzorców – krótszego i dłuższego
